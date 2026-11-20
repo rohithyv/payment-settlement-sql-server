@@ -296,3 +296,7 @@ perf/       slow_query.sql · fix_index.sql · capture_perf.py · results.md
 tests/      test_validation.py (one test per rule) · test_idempotency.py
 data/       generated CSVs (gitignored — the 1M-row file is ~103 MB)
 ```
+
+## License
+
+MIT © 2026 [Tharun Varada](LICENSE)
